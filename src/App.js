@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial' }}>
-      <h1>BIM2Twin Digital Applications</h1>
+      <h1>BIM2Twin Digital Solutions </h1>
       <ul>
         {products.map((product, index) => (
           <li key={index}>
